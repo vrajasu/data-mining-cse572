@@ -1,0 +1,22 @@
+1. We have 4 matlab files
+	a. question1Knn.m
+	b. question2Random.m
+	c. question2Uncertainity.m
+	d. Assignment4.m
+
+2. Main Folder structure required
+	a. The folder should have all the matlab files inside.
+	b. The two folders containing the data and the code should be placed inside this 'Main Folder'.
+	c. This 'Main Folder' should be added to the path in Matlab selecting the option to add all 'Selected Folders and Subfolders'
+
+	Main Folder
+		-Data for Assignment 4 (Mini Project 2) - (Folder)
+		-Code Files for Assignment 4 (Mini Project 2) - (Folder)
+		-question1Knn.m
+		-question2Random.m
+		-question2Uncertainity.m
+		-Assignment4.m
+
+3. To run the code add the main folder to the path in Matlab and run the file Assignment4.m
+
+4. Code written and tested on Matlab R2014a

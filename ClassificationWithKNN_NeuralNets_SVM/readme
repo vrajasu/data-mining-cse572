@@ -1,0 +1,18 @@
+1. We have three matlab files
+	a. question1.m
+	b. question2.m
+	c. Assignment3.m
+
+2. Folder structure required
+	a. The folder should have all the matlab files inside.
+	b. The two folders containing the data should be also placed after extraction in the same folder.
+	c. This main folder should be added to the path in Matlab.
+
+	Main Folder
+		-Human Activity Recognition (Folder)
+		-VidTIMIT (Folder)
+		-question1.m
+		-question2.m
+		-Assignment3.m
+
+3. To run the code add the main folder to the path in Matlab and run the file Assignment3.m

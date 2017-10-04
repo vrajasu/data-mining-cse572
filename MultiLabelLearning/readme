@@ -1,0 +1,19 @@
+1. We have 3 matlab files
+	a. question1MultiLabel.m
+	b. question2MultiClass.m
+	c. Assignment5.m
+
+2. Main Folder structure required
+	a. The folder should have all the matlab files inside.
+	b. The two folders containing the data and the code should be placed inside this 'Main Folder'.
+	c. This 'Main Folder' should be added to the path in Matlab selecting the option to add all 'Selected Folders and Subfolders'
+
+	Main Folder
+		-Data for Assignment 5 (Mini Project 3) - (Folder)
+		-question1MultiLabel.m
+		-question2MultiClass.m
+		-Assignment5.m
+
+3. To run the code add the main folder to the path in Matlab and run the file Assignment5.m
+
+4. Code written and tested on Matlab R2014a
